@@ -2,7 +2,7 @@
 - Gammy is a cross-platform eye protection application that helps protect you against blue light. 
 - This is a a very important application for developers and generally people who spend a lot of hours on computer or laptop screens
 
-** Installation
+### Installation
 - To install this file, simply clone this repository locally. 
 ie $ git clone https://github.com/symokevo/gammy.git 
 - cd gammy
