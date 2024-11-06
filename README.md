@@ -8,7 +8,7 @@ ie **$ git clone https://github.com/symokevo/gammy.git**
 - **cd gammy**
 - **sudo dpkg -i gammy_0.9.64-1_amd64.deb**
 - The hit **Enter**
-- That's all! Enjoy
+- That's all! Enjoy coding!
 
 ## NOTE
 - The repository only covers Debian users. I will collect other variants and add them here. If you have them email me at symokevo@gmail.com for collaboration.
